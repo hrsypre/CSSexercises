@@ -1,9 +1,23 @@
-h1 {
-    color: black;
-    text-align: Left
-    font-family: Georgia, serif;
-    font-size: 20px;
+
+.col-1 h1{
+    color: #222222;
+    text-align: left; 
+    font-family: sans-serif;
+}
+
+.col-2 h1{
+    color: #222222;
+    text-align: justify; 
 }
 body {
     text-align: center;
+    background-color: #5B7FBD;
+}
+.container {
+    text-align: left;
+    font-style: italic;
+    
+}
+a:link {
+    color: #7C35A4;
 }
